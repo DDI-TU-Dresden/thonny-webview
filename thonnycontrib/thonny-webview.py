@@ -126,7 +126,7 @@ def load_plugin():
     get_workbench().add_command(
         command_id="webview",
         menu_name="tools",
-        command_label="webview",
+        command_label="Start Webview",
         handler=commandHandler,
     )
 
