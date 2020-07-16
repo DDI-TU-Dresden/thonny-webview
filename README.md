@@ -24,3 +24,12 @@ PYTHONPATH=/path/to/thonny-webview/ python -m thonny
 ## Usage in thonny
 
 Click on the "Tools" section in the menu at the top of the program. And then select "Start Webview".
+
+## Licenses
+
+This project is using third party projects and libraries.
+
+| Name      | Website                            | License         |
+| --------- | ---------------------------------- | --------------- |
+| thonny    | https://thonny.org                 | MIT             |
+| pywebview | https://github.com/r0x0r/pywebview | New BSD license |
